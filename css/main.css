@@ -199,9 +199,7 @@ header .main-menu {
   z-index: 1;
   display: flex;
 }
-header .main-menu .item {
 
-}
 header .main-menu .item .item__name {
   padding: 10px 20px 34px 20px;
   font-family: Arial, sans-serif;
@@ -323,9 +321,7 @@ header .badges .badge {
 }
 
 /* notice */
-.notice {
 
-}
 .notice .notice-line {
   position: relative;
 }
@@ -616,9 +612,7 @@ header .badges .badge {
 .season-product .text-group .description {
   margin-bottom: 15px;
 }
-.season-product .text-group .more {
 
-}
 
 /* reserve coffee */
 .reserve-coffee {
@@ -888,7 +882,5 @@ footer .logo {
   align-items: center;
   position: fixed;
   bottom: 30px;
-  top: 30px;
-  
-
+  top: 30px; 
 }
